@@ -1,0 +1,5 @@
+{
+    "repo": "drive:/path/to/your/repo/with/forward/slashes/not/backslashes",
+    "repotag": "YOUR_TAG_FOR_THIS_REPO",
+    "apikey": "fromhealthchecksio"
+}

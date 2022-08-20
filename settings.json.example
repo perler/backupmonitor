@@ -1,5 +1,9 @@
 {
     "repo": "drive:/path/to/your/repo/with/forward/slashes/not/backslashes",
+    "repouser": "automat",
+    "repopw": "this-is-obviously-unsafe-and-will-get-changed",
     "repotag": "YOUR_TAG_FOR_THIS_REPO",
-    "apikey": "fromhealthchecksio"
+    "apikey": "fromhealthchecksio",
+    "additionaltags": "macrium",
+    "MaxBackupAge": 24
 }

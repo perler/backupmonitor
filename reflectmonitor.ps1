@@ -1,9 +1,9 @@
 #Monitors Marium Reflect backups created with Macrium Site Manager
-#You need to create a settings.json file from settings.json.example in the same directory as the script
+#You need to create a settings.json file from settings.json.example in the same directory as this script
 #As some modules need to be installed, do the first run from console
 #But first run 'Set-ExecutionPolicy RemoteSigned'
 $ErrorActionPreference = 'Stop'
-#add the API MOdule for healthchecks.io (https://www.powershellgallery.com/packages/PS.HealthChecks/1.0.3)
+#add the API Module for healthchecks.io (https://www.powershellgallery.com/packages/PS.HealthChecks/1.0.3)
 Install-Module -Name PS.HealthChecks
 
 #read .env
